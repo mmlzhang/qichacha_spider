@@ -5,7 +5,7 @@ requests==2.20.1
 python-dateutil==2.8.0
 demjson==2.2.4
 Logbook==1.4.0
-sentry-sdk==0.11.2
+sentry-sdk==1.14.0
 fake-useragent==0.1.11
 demjson==2.2.4
 scrapy-redis==0.6.8
